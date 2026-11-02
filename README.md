@@ -1,6 +1,6 @@
 # Hi, I'm Kien 👋
 
-I study **math and computer science at Minerva University**. I'd love to join a team, build something useful, and learn a ridiculous amount along the way.
+I study **math and computer science at Minerva University**. I'm open for any collaborations, build something useful, and learn a ridiculous amount along the way.
 
 ## A few projects
 
