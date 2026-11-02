@@ -1,6 +1,6 @@
 # Hi, I'm Kien 👋
 
-I study **math and computer science at Minerva University**. I'm interested in **software engineering, AI automation, and computer vision**, and I'm looking for a **Summer 2027 internship**. I'd love to join a team, build something useful, and learn a ridiculous amount along the way.
+I study **math and computer science at Minerva University**. I'd love to join a team, build something useful, and learn a ridiculous amount along the way.
 
 ## A few projects
 
