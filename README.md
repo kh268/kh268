@@ -12,6 +12,9 @@ What if a model had only four examples of “normal”? I'm exploring industrial
 🚸 **[Teacher Allocation Optimizer](https://github.com/tony-ng-vn/Soda-hack)**  
 With my hackathon team, I built a C++ min-cost max-flow solver to help match teachers with schools and integrated it with a Flask API and a Next.js interface. In a synthetic benchmark with 24 teachers and 18 schools, it reduced modeled travel distance by 54.6% against a greedy baseline, with 78.1% demand coverage.
 
+🔗 **[QuoteBridge](https://github.com/nganhuongg/multi-hop-quote-correction)**  
+I contributed to a hackathon prototype for recovering and validating exact-input quotes on supported multi-hop Uniswap v4 and Tempo routes. The team checked candidate quotes with full transaction simulations on a local fork.
+
 🌿 **[Bay Area Urban Planner](https://github.com/kh268/urban-planner)**  
 I worked with a team on the math, ML, and backend for a dashboard exploring vegetation, heat, and air quality across the Bay Area.
 
