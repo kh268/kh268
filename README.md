@@ -5,7 +5,7 @@ I study **math and computer science at Minerva University**. I'm open for any co
 ## A few projects
 
 1. **[PokéScout](https://github.com/kh268/pokescout-agent)** 🃏  
-   I built an **AI agent prototype** for researching Japanese Pokémon card listings and planning purchases within a budget. It combines image-based card identification, evidence checks, and deterministic Python planning; the demo uses synthetic transactions. Built for **Tokyo AgentForge**.
+   I built an **AI-powered buying agent** that researches Japanese Pokémon card listings and turns marketplace evidence into budget-aware purchase plans. It brings together image-based card identification, listing analysis, and deterministic decision-making. Built for **Tokyo AgentForge**; demo transactions are simulated.
 
 2. **Few-shot defect detection** 🔍  
    I develop and evaluate models that spot defects in industrial products using just a few normal reference images. Built with **Python, PyTorch, and DINOv2**, with experiments on different product types and failure analysis.
